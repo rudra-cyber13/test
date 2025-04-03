@@ -4,8 +4,12 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.example</groupId>
-    <artifactId>myapp</artifactId>
+    <artifactId>test-project</artifactId>  <!-- Kept 'test-project' -->
     <version>1.0-SNAPSHOT</version>
+
+    <packaging>jar</packaging> <!-- Included -->
+    <name>Test Project</name> <!-- Included -->
+    <description>A sample Maven project</description> <!-- Included -->
 
     <dependencies>
         <!-- Add required dependencies here -->
